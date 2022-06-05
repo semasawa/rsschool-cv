@@ -15,6 +15,7 @@ print('Hello World!')
 # Education
 * College HMTPK (Khanty-Mansiysk)
 * Ural Federal University (Yekaterinburg)
+* [Stepik.org](https://stepik.org/)
 # Languages
 * Russian - Native
 * English - Intermediate 
