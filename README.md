@@ -1,1 +1,1 @@
-# rsschool-cv
+https://semasawa.github.io/rsschool-cv/cv
